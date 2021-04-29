@@ -1,0 +1,25 @@
+.avatar {
+	width: 170px;
+	height: 170px;
+	border-radius: 50%;
+	margin: 10px 10px;
+}
+
+.avatar-grouping{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	text-align: center;
+	border: 2px rgb(230,230,230);
+	border-radius: 4px;
+	box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+	padding: 10px;
+}
+
+.avatar-grouping p{
+	background-color: #91c788;
+	border-radius: 4px;
+	border: 2px rgb(30,30,30);
+}
+
+
